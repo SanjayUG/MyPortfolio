@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sanjay UG"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Love to Learn tech..."
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
@@ -23,7 +23,12 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: 
+"<pre>Being a learner , Love to Learn with new Tech products and achieve skills on it. Excited to be on the journey of Wed developing , Coding & Investing.
+
+Apart from tech; I explore Trading(as a business), be on the path of Spirituality, and follow the great Spiritual knowledge.
+
+Always a "RAM Bhakta".</pre>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
