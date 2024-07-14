@@ -2,16 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Face Recognition
-- project: Face Recognition
-  role: Attendance monitoring system
+- project: Image Generator
+  role: --React js, vite, Pexels API
   # duration: 2012 &mdash; Present
   # url: "#"
-  description: "Build a website which takes attendance of students by face
-recognition. This is the most need for fast attemdance system for students. It has the potential to impact more than 500k+ schools ,collage and mainly impacting universities in total."
+  description: "Generates the image for given search. Used API of pexels and learned to use it. This has reasonable impact over 10k+ customers on the field of editing and photography to get high quality images."
 
-# Springfield Community Outreach Group
-# - project: Springfield Community Outreach Group
-#   role: Co-Founder & Organizer
-#   duration: 2007 &mdash; Present
-#   # url: "#"
-#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Sorting Algo–
+- project: Sorting Algo
+  role: --React js
+  # duration: 2012 &mdash; Present
+  # url: "#"
+  description: "Sorts the random block in ascending order. Learned to implement a textual code to a visual sight. Sort up to 400 random block in 2000x speed. "
