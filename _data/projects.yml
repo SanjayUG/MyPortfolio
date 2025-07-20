@@ -1,16 +1,32 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Face Recognition
-- project: Image Generator
-  role: --React js, vite, Pexels API
+# ZKPass-Passwordless-Authentication-with-Zero-Knowledge-Proofs
+- project: ZKPass-Passwordless-Authentication-with-Zero-Knowledge-Proofs
+  role: --Blockchain, zk-snark, Node.js, Express.js, Typescript, Ethers, Vite
   # duration: 2012 &mdash; Present
   # url: "#"
-  description: "Generates the image for given search. Used API of pexels and learned to use it. This has reasonable impact over 10k+ customers on the field of editing and photography to get high quality images."
+  description: "• Secure Auth system using Zero Knowledge Proofs to verify user identity without reveling sensitive information.
+• Boosted user security  by 60% with smooth auth, and implemented the blockchain and ZKP technology.
+• Estimated impact over 2000+ user due to use in blockchain and zkp tech and also smooth integration sdk.
+."
 
-# Sorting Algo–
-- project: Sorting Algo
-  role: --React js
+# Cluster-Resource-Manager
+- project: Cluster-Resource-Manager
+  role: --CPP, WSL, Shell, MarkFile
   # duration: 2012 &mdash; Present
   # url: "#"
-  description: "Sorts the random block in ascending order. Learned to implement a textual code to a visual sight. Sort up to 400 random block in 2000x speed. "
+  description: "• The effective management of task by allocating to the distributed set of nodes with dynamic memory aware scheduling.
+• Effective and smart task management over 30% by the DMA and greedy dispatch.
+• Multithreaded design and easy tracking with dashboard and also health monitor of nodes. Able to handle 2000-5000 healthy nodes with basic configurations.
+."
+
+# Exclusive-Mentor-Mentee-Platform –
+- project: Exclusive-Mentor-Mentee-Platform 
+  role: --MongoDB, Postman, Express.js, Vite, Tailwind
+  # duration: 2012 &mdash; Present
+  # url: "#"
+  description: "• Developed a MERN-based Mentor-Mentee platform with 10+ modules, including custom React-Tailwind Uis.
+• Delivered 4+ key features: role-based auth, scheduling, feedback, and achievements via APIs.
+• Increased user engagement by 30% by optimizing frontend performance and UX with React & Tailwind and facilitated over 50 mentor-mentee connections.
+. "
